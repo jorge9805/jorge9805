@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I am Jorge Cuadrado<h1/>
+<h1 align="center"> Hi 👋, I am Jorge <h1/>
 <p align="center"> FullStack Developer | FrontEnd Developer </p>
 <h3 align="center">
   <a href="www.linkedin.com/in/jorge-fullstackdev" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
