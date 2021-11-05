@@ -35,6 +35,5 @@
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
- 
-
+  
 It's a little project that I liked (if you want your own click on the joke)
