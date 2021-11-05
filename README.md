@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br>
   
-  I have a little more but these are my main, I will be adding with the time
+  I have a little more but these are my main, I will be adding more with the time
   
 
   
