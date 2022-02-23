@@ -29,11 +29,3 @@
   
   I have a little more but these are my main, I will be adding more with the time
   
-
-  
-  It's time for jokes:
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
-  
-It's a little project that I liked (if you want your own click on the joke)
